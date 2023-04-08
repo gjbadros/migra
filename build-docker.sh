@@ -11,4 +11,4 @@ DOCKER_IMAGE="djrobstep/migra:latest"
 
 printf "# Image: \e[1;37m${DOCKER_IMAGE}\e[0m\n\n"
 
-docker build -t djrobstep/migra:latest .
+docker build -t gjbadros/migra:latest .
